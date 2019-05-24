@@ -16,8 +16,8 @@ h1 {
 }
 
 .portrait {
-          width: 350px;
-          height: 350px;
+          width: 450px;
+          height: auto;
 }
 
 .container-main {
